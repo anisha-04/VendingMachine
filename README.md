@@ -1,1 +1,3 @@
 # VendingMachine
+
+<img src="" />
